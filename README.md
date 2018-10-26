@@ -1,3 +1,3 @@
 # POO_PATTERNS
 
-Matias Ezequiel Mendoza
+Matias Ezequiel Mendoza e Rodrigo Cantuario
